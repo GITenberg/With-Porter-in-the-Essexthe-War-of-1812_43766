@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '1433'
     url: http://www.gutenberg.org/2009/agents/1433
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43766#With-Porter-in-the-Essexthe-War-of-1812
 gutenberg_issued: '2013-09-19'
 gutenberg_type: Text
 identifiers:
