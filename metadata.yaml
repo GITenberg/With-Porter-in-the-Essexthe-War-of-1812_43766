@@ -1,0 +1,35 @@
+_repo: With-Porter-in-the-Essexthe-War-of-1812_43766
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stecher, William F. (William Frederick)
+    alias: Stecher, William Frederick
+    birthdate: 1864
+    gutenberg_agent_id: '25257'
+    url: http://www.gutenberg.org/2009/agents/25257
+covers:
+- cover_type: archival
+  image_path: 43766-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: ''
+gutenberg_issued: '2013-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43766'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- War of 1812 -- Juvenile fiction'
+- !lcc 'PZ'
+title: "With Porter in the Essex\r\nA Story of His Famous Cruise in the Southern Waters\
+  \ During the War of 1812"
+url: http://www.gutenberg.org/ebooks/43766
